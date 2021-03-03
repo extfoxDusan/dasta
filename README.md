@@ -6,5 +6,10 @@
 - The server choosen should be Linux
 - The server should have updated npm packages.
 
+## Using Visual Studio - App Service Extension
+- Open Visual Studio Code, and search for Azure App Service Extension
+- Sign in using the Extension, you will able to see all apps created in Azure
+- Choose the server that you see under your plan. Using right-click - deploy to web app
+
 ## Contributing
 Contact me for any inquire to info@extfox.com
