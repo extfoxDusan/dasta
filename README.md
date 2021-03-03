@@ -10,6 +10,7 @@
 - Open Visual Studio Code, and search for Azure App Service Extension
 - Sign in using the Extension, you will able to see all apps created in Azure
 - Choose the server that you see under your plan. Using right-click - deploy to web app
+- More can be saw at: https://docs.microsoft.com/en-us/azure/app-service/quickstart-nodejs?pivots=platform-linux#deploy-to-azure
 
 ## Contributing
 Contact me for any inquire to info@extfox.com
